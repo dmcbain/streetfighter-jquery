@@ -66,9 +66,7 @@ body {
   background-image: url('../images/street-fighter-logo.png');
   background-position: 550px 50px;
   height: 250px;
-  position: relative;
   background-repeat: no-repeat;
-  z-index: 1;
 
 }
 
